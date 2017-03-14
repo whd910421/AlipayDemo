@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="2421439942081108"
+    token="493117494618626172"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="1615" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="181" />
+    <task
+        name="verifier"
+        duration="21" />
+
+    <artifact
+        location="C:\Users\Arirus\Desktop\code\alipay_demo\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="2421439942081108"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\Arirus\Desktop\code\alipay_demo\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

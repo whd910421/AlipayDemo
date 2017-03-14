@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Arirus\Desktop\code\alipay_demo\app\libs\alipaySdk-20161222.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="341e981a9f87882cc427113db58c7a01f6b5dde4">
+        <dex dex="C:\Users\Arirus\Desktop\code\alipay_demo\app\build\intermediates\transforms\dex\debug\folders\1000\2\alipaySdk-20161222_2643c2b64ba238b7f6496bf887da9bae59a83f54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Arirus\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.2.7\138872ff3173fb7bee8b1d6303d6edb57d76599\rxjava-1.2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0138872ff3173fb7bee8b1d6303d6edb57d76599">
+        <dex dex="C:\Users\Arirus\Desktop\code\alipay_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.2.7_5ff356065847fe0631392167731a3105236f3213\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Arirus\Desktop\code\alipay_demo\app\libs\android-support-v13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5b3db0befb5f9a8c310ca661ea2f67da12871fa2">
+        <dex dex="C:\Users\Arirus\Desktop\code\alipay_demo\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v13_e2ee698bab95ee3761659dd9f01b8b14b4f6b260\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Arirus\Desktop\code\alipay_demo\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="C:\Users\Arirus\Desktop\code\alipay_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.reactivex-rxandroid-1.2.1_d94e46f1e256404324a1034f9b2ee9c690827ef5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Arirus\Desktop\code\alipay_demo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c78de1e18fce149fc7b2c0d06d38e4329a9ba23b">
+        <dex dex="C:\Users\Arirus\Desktop\code\alipay_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_21f640f564e937912fae1fadf9fd2a4355466cfe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Arirus\Desktop\code\alipay_demo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d86a5f5c8d72f74e21fc045026f22f9c239fc9b6">
+        <dex dex="C:\Users\Arirus\Desktop\code\alipay_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4104b3d3aafdce8714eda89666d1a6062bd69f9d\classes.dex" />
+    </item>
+
+</items>

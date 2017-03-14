@@ -1,0 +1,7 @@
+#Fri Mar 10 09:57:02 CST 2017
+base.0=C\:\\Users\\Arirus\\Desktop\\code\\alipay_demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_21f640f564e937912fae1fadf9fd2a4355466cfe
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Arirus\\Desktop\\code\\alipay_demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4104b3d3aafdce8714eda89666d1a6062bd69f9d\\classes.dex
+base.1=C\:\\Users\\Arirus\\Desktop\\code\\alipay_demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4104b3d3aafdce8714eda89666d1a6062bd69f9d
+file.0=C\:\\Users\\Arirus\\Desktop\\code\\alipay_demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_21f640f564e937912fae1fadf9fd2a4355466cfe\\classes.dex
